@@ -7,7 +7,15 @@ function App() {
       <img src="an1.jpg" alt="" className="image1" />
       <img src="an2.jpg" alt="" className="image2" />
       <div className="heading">
-        <h1>Chúc mừng sinh nhật Annh Ngọc 🎉🎉🎉</h1>
+        <h1
+          style={{
+            textAlign: "center",
+            fontSize: "40px",
+            marginInline: "auto",
+          }}
+        >
+          Chúc mừng sinh nhật công chúa Annh Ngọc 🎉🎉🎉
+        </h1>
       </div>
       <div className="cake">
         <div className="candle-line">

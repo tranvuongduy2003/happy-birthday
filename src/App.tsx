@@ -4,8 +4,6 @@ import { Candle } from "./components/candle/Candler";
 function App() {
   return (
     <div className="main">
-      <img src="an1.jpg" alt="" className="image1" />
-      <img src="an2.jpg" alt="" className="image2" />
       <div className="heading">
         <h1
           style={{
